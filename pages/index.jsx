@@ -451,20 +451,19 @@ const Index = () => {
                     <div className="text">
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.
+                        Experienced in React.js for 3 months, proficient in all aspects of React development, including component creation, state management, and building dynamic user interfaces.
+
                         </p>
                       </div>
                     </div>
                     <div className="dots">
-                      <div className="dot" style={{ width: "70%" }}>
+                      <div className="dot" style={{ width: "50%" }}>
                         <span />
                       </div>
                     </div>
                     <div className="value">
                       <span className="num">
-                        70 <span>%</span>
+                        50 <span>%</span>
                       </span>
                     </div>
                   </div>

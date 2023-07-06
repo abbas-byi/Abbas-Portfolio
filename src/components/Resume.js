@@ -32,7 +32,7 @@ const experienceData = [
     id: 1,
     title: "Senior Software Engineer",
     company: "Build Your Innovation",
-    dec: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    dec: "I have been offered a job at BuildYourInnovation, surpassing the offer I received from Aliema. BuildYourInnovation had recognized my work and provided me with the opportunity to learn and grow in a very short period of time. Working at BuildYourInnovation, I have gained knowledge in Node.js, React.js, MongoDB, and many other areas. It has been a unique and fantastic experience for me to work with such a highly professional team.",
     startYear: "Jul 2023",
     endYear: false,
   },
